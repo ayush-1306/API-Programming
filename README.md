@@ -3,4 +3,4 @@ An API is a set of programming code that enables data transmission between one s
 
 <img src = "api diagram.png" />
 
-<img align = "right" src = "Project working.gif" width = 500 height = 400 />
+<img align = "center" src = "Project working.gif" width = 600 height = 600 />
